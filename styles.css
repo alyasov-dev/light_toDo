@@ -1,0 +1,25 @@
+body {
+    background-color: #f5f5f5;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 21px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+span {
+    font-size: 16px;
+}
+
+label {
+    font-size: 14px;
+}
+
+textarea {
+    resize: none;
+}
